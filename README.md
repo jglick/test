@@ -1,6 +1,5 @@
 test
 ====
 
-Junk!
 stuff
 more
